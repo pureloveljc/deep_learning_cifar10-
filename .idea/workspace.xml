@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69d6004b-629b-4fe2-9a9e-8d58ba30372b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/argmax_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/data_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/equal_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/image enhancement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/image enhancement1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network1_two_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network2_ multi-class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network3_ cnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network4_ vgg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network4_ vgg__deep_bn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network4_ vgg__image_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network4_ vgg_activation_optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network5_ resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network5_ resnet_tensorboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network5_ resnet_tensorboard_fine_tune.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network6_ resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network7_ inception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network8_ mobilenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/network_ fine_tune.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/one_hot_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/respape_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning_cifar10-/test5.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/deep_learning_cifar$image_enhancement.coverage" NAME="image enhancement Coverage Results" MODIFIED="1547289819262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deep_learning_cifar$network4__vgg.coverage" NAME="network4_ vgg Coverage Results" MODIFIED="1547289842735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deep_learning_cifar$data_show.coverage" NAME="data_show Coverage Results" MODIFIED="1547289791813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deep_learning_cifar10-/data_show.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deep_learning_cifar10-/network4_ vgg__image_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-44" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deep_learning_cifar10-/image enhancement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deep_learning_cifar10-/network4_ vgg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="e#98#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/deep_learning_cifar10-" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-24" />
+    <option name="y" value="102" />
+    <option name="width" value="1441" />
+    <option name="height" value="645" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deep_learning_cifar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_learning_cifar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep_learning_cifar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_learning_cifar" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_learning_cifar10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep_learning_cifar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_learning_cifar" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_learning_cifar10-" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/deep_learning_cifar10-" />
+      <recent name="$PROJECT_DIR$/deep_learning_cifar10" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.network4_ vgg">
+    <configuration name="data_show" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep_learning_cifar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_learning_cifar10-/data_show.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image enhancement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep_learning_cifar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_learning_cifar10-/image enhancement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network4_ vgg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep_learning_cifar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_learning_cifar10-/network4_ vgg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.network4_ vgg" />
+        <item itemvalue="Python.image enhancement" />
+        <item itemvalue="Python.data_show" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d6004b-629b-4fe2-9a9e-8d58ba30372b" name="Default Changelist" comment="" />
+      <created>1547289327006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547289327006</updated>
+      <workItem from="1547289328713" duration="1032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1032000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3287858" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.48431104" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26603" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" visible="true" weight="0.3297568" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/deep_learning_cifar10-/images/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_cifar10-/data_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_cifar10-/network4_ vgg__image_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspaces/need3.6/lib/python3.6/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="1333" selection-start-line="1333" selection-end-line="1333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_cifar10-/image enhancement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_cifar10-/network4_ vgg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#98#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
