@@ -296,3 +296,4 @@ with tf.Session() as sess:
 # 1制定面板图显示的变量
 # 2训练过程中讲这些变量计算出来，输出到文件中
 # 3文件解析 。/tensorboard --logdir=dir
+# tensorboard --logdir ./ --host localhost
